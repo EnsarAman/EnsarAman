@@ -1,4 +1,4 @@
-# Hi there, I'm Ensar Turhan Aman 👋
+# Hi there, I'm Ensar Aman 👋
 
 ### Software Developer
 > *Busy fixing things that should work but don't.* 🛠️
@@ -37,5 +37,5 @@
 ### 📊 GitHub Stats
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ENSAR_GITHUB_KULLANICI_ADIN&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=EnsarAman&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
