@@ -1,16 +1,38 @@
-## Hi there 👋
+## Ensar Turhan Aman
 
-<!--
-**EnsarAman/EnsarAman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Developer**  
+*Busy fixing things that should work but don't.*
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skill Tree
+
+- PHP
+- Python
+- JavaScript
+- SQL
+- HTML / CSS
+- MySQL / SQL Server
+- OpenCV
+- PyTorch
+- Git
+- REST API
+
+---
+
+### Side Quests
+
+- Automation systems
+- Artificial intelligence
+- Computer vision
+- Data analysis
+- System integrations
+
+---
+
+### Developer Notes
+
+- 99% debugging
+- 1% writing code
+- Regularly experiencing “Why is this working?” moments
+- “Works on my machine” certified
